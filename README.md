@@ -2,6 +2,13 @@
 
 TechPixel Agent is a specialized, terminal-inspired integrated development environment (IDE) and AI assistant tailored exclusively for **Bloxd.io** modding and scripting via the **WorldCode** framework. Driven by an optimized execution model, it helps creators draft, test, and deploy custom game mechanics up to 10x faster.
 
+<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap; padding-bottom: 10px;">
+  <img src="https://github.com/user-attachments/assets/37c4b86f-3a31-421b-bc8b-22bb8d8e9950" width="600" style="flex: 0 0 auto;" />
+  <img src="https://github.com/user-attachments/assets/a914c7f9-a3f5-46ed-9c7c-4b5771cfa9d4" width="600" style="flex: 0 0 auto;" />
+  <img src="https://github.com/user-attachments/assets/f23f81b5-a8f2-4ec3-b4bb-ab5407dc204d" width="600" style="flex: 0 0 auto;" />
+  <img src="https://github.com/user-attachments/assets/87e28a44-b396-40d4-93bb-6e27341eac8a" width="600" style="flex: 0 0 auto;" />
+  <img src="https://github.com/user-attachments/assets/93a8a874-5612-4f80-806a-f4a07fc66f83" width="600" style="flex: 0 0 auto;" />
+</div>
 ---
 
 ## 🖥️ Complete Feature Breakdown
