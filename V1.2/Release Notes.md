@@ -1,4 +1,4 @@
-# Release Notes (v1.2) : techpixelv12.base44.app
+# Release Notes (v1.2) : techpixel.base44.app
 
 ## New Features and Updates
 **Date:** June 12, 2026
