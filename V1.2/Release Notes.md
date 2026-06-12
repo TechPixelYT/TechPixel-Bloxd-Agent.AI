@@ -1,4 +1,4 @@
-# Release Notes (v1.2) : NOT RELEASED YET
+# Release Notes (v1.2): NOT RELEASED YET
 
 ## New Features and Updates
 **Date:** June 12, 2026
@@ -45,6 +45,9 @@ Welcome to version 1.2 of TechPixel Agent! This update introduces powerful creat
     * **Terminal Phase:** A boot log terminal fades into the base of the interface, displaying real-time system initialization status lines and typing effects.
     * **Ripple Exit:** The sequence concludes with four expanding green ripple rings and a screen flash, transitioning into the homepage with a smooth scale-in effect.
 * **Session-Based Performance Optimization:** The full intro sequence is cached via sessionStorage to ensure it plays only once per browser session, providing instant workspace access on subsequent revisits.
+
+### Guest Account & Access
+* **Instant Guest Sessions:** Access core platform features instantly without signing in. This is perfect for quick testing, evaluations, or low-friction sandboxing.
 
 ---
 
