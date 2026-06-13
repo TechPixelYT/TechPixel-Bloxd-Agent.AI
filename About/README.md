@@ -1,87 +1,263 @@
-# TechPixel Agent (v1.1) — Bloxd.io Dev Assistant (v1.1)
+<div align="center">
 
-TechPixel Agent is a specialized, terminal-inspired integrated development environment (IDE) and AI assistant tailored exclusively for **Bloxd.io** modding and scripting via the **WorldCode** framework. Driven by an optimized execution model, it helps creators draft, test, and deploy custom game mechanics up to 10x faster.
+# ⚡ TechPixel Agent (v1.2)
 
-## Deployment and Version Access
+### *The AI-Powered Bloxd.io Development Assistant*
 
-The latest live version of TechPixel Agent can always be accessed directly at:
-**techpixel.base44.app**
-To access past updates, please use the following format:
-**techpixelv##.base44.app**
-For example:
-**techpixelv10.base44.app** = V1.0
-**techpixelv11.base44.app** = V1.1
+Built specifically for the **Bloxd.io** community.
 
-### Accessing Older Releases
-For historical tracking, older deployments and legacy builds are organized into individual directories within this repository. Navigate to the corresponding version folders (such as `/V1.1` or `/V1.2`) to view specific release assets and documentation.
+Design. Research. Code. Create.
 
-<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap; padding-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/37c4b86f-3a31-421b-bc8b-22bb8d8e9950" width="600" style="flex: 0 0 auto;" />
-  <img src="https://github.com/user-attachments/assets/a914c7f9-a3f5-46ed-9c7c-4b5771cfa9d4" width="600" style="flex: 0 0 auto;" />
-  <img src="https://github.com/user-attachments/assets/f23f81b5-a8f2-4ec3-b4bb-ab5407dc204d" width="600" style="flex: 0 0 auto;" />
-  <img src="https://github.com/user-attachments/assets/87e28a44-b396-40d4-93bb-6e27341eac8a" width="600" style="flex: 0 0 auto;" />
-  <img src="https://github.com/user-attachments/assets/93a8a874-5612-4f80-806a-f4a07fc66f83" width="600" style="flex: 0 0 auto;" />
-</div>
+**All from your browser.**
 
-
-## Getting Started
-
-Since TechPixel Agent runs directly in your browser, you can start building immediately without any local installation.
-
-1. Navigate to **[techpixel.base44.app](https://techpixel.base44.app)**.
-2. Select one of the pre-configured **WorldCode Templates** from the workspace grid (e.g., `killstreak.js`).
-3. Use the **Prompt Bar** to ask the AI assistant to modify, optimize, or debug your script.
+[🌐 Launch TechPixel](https://techpixel.base44.app) •
+[🚀 Getting Started](GETTING_STARTED.md) •
+[🏗 Architecture](ARCHITECTURE.md) •
+[🔒 Privacy](PRIVACY.md)
 
 ---
 
-## Complete Feature Breakdown
+![Version](https://img.shields.io/badge/version-v1.2-purple)
+![Platform](https://img.shields.io/badge/platform-Web-blue)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Bloxd](https://img.shields.io/badge/Bloxd.io-Specialized-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-### Native WorldCode Templates (One-Click Initialization)
-The workspace features a grid of pre-configured code boilerplates ready to run or modify instantly:
-* **`killstreak.js`**: Generates a kill streak reward system for tracking consecutive player kills and awarding custom scaling rewards.
-* **`spawn_entity.js`**: Implements spatial coordinate parsing to spawn entities at a player's exact position dynamically.
-* **`team_balance.js`**: Provides server-side auto-balancing algorithms for competitive PvP matchmaking.
-* **`shop_gui.js`**: Builds an interactive graphical user interface featuring multiple item slots and support for custom in-game currencies.
-* **`api_lookup.ts`**: A dedicated utility to instantly reference, explain, and query the latest Bloxd.io WorldCode API functions.
-* **`leaderboard.js`**: Sets up volatile, round-based competitive data tracking that automatically resets at the end of each round.
+</div>
 
-### Advanced Agent Runtime & Deep Reasoning Controls
-Fine-tune how the AI processes your scripts using built-in bottom-bar and menu toggles:
-* **Runtime Core Engine**: Powered by the `gpt-4o` model optimized for complex programming and logic debugging.
-* **Granular Search Modes**: 
-  * `auto`: Automatically scales context depth based on query complexity.
-  * `deep`: Conducts exhaustive logical code audits and deeper multi-step reasoning.
-  * `balanced`: Strikes an efficient middle ground between rapid generation speed and analytical depth.
-* **Research and Plan Modes**: Specialized execution pathways designed to handle long-form analytical research and step-by-step project blueprinting.
-* **Extended Thinking and Effort Levels**: Toggle deep reasoning performance with granular control options including low, balanced, and thorough processing tiers.
-* **`web:on` (Always-On Web Search)**: An integrated live-sync engine that continuously crawls live game update logs and external repositories during code generation to prevent generic API hallucinations.
-* **`memory: active`**: A persistent memory core
+---
 
-### Automated Training and Knowledge Verification
-* **Training Submissions**: Submit custom documentation, codebase adjustments, and reference materials directly to the system.
-* **Relevance Validation Agent**: An integrated validation checker reviews all incoming training data for quality and relevance, automatically approving and injecting it into the knowledge base upon passing.
+# ✨ What is TechPixel?
 
-### Terminal-Inspired IDE UI Layout
-* **Unified Sidebar Explorer**: Includes an organizational system featuring:
-  * A dedicated `+ new_conversation()` button to clear scopes and initialize fresh tasks.
-  * A `CHATS` repository keeping your workspace clean
-* **ASCII Terminal Branding**: Features a distinctive retro matrix/terminal layout displaying the `TECHPIXEL` ASCII block logo upon initialization.
-* **User Profile & Cloud Connection Profile**: Features a persistent connection status panel (`TECHPIXEL AI · CONNECTED`) tracking the active developer's profile and credentials securely at the base of the sidebar.
+TechPixel Agent is a specialized AI assistant and terminal-inspired development environment built **exclusively for Bloxd.io**.
 
-### System Customization and Community Hub
-* **Comprehensive Settings Menu**: A highly detailed configuration center to adjust profile properties, memory preferences, interface themes, and system parameters.
-* **What's New Center**: A dedicated information portal detailing recent release notes, active patch milestones, and version tracking histories for TechPixel.
-* **Contributor Credits**: A visible directory celebrating and acknowledging the dedicated community members and developers who contributed to the project.
+Unlike general-purpose AI systems, TechPixel understands the unique workflows, scripting patterns, and development processes used throughout the Bloxd ecosystem.
 
-## Credits
-### Lead Developer
-* **[TechPixel](https://www.reddit.com/user/Own_Body_9771/)** - Project Creator and Lead Architecture
+Whether you're debugging WorldCode scripts, planning an entirely new game mode, generating creative assets, researching mechanics, or organizing project ideas, TechPixel is designed to help Bloxd creators build faster and smarter.
 
-### Notable Contributors
-* **[BlueNoob](https://www.reddit.com/user/Zestyclose_Job_5735/)** - Contributions to Training Submissions, Settings Configuration, and API Documentation.
-* **[BloxdioCannoli](https://www.reddit.com/user/BloxdioCannoli/)** - Contributions to Entity Animation Systems.
+> **Think of TechPixel as an AI copilot built specifically for Bloxd developers.**
 
-## Support and Feedback
-If you run into any system bugs, API mismatches, or layout issues while using the platform, please reach out via our community channels:
-* **Reddit Support:** Contact the lead developer on Reddit at **[u/Own_Body_9771](https://www.reddit.com/user/Own_Body_9771/)**.
-  
+---
+
+# 🌐 Accessing TechPixel
+
+## Latest Version
+
+> **https://techpixel.base44.app**
+
+---
+
+## Historical Releases
+
+Older releases remain publicly accessible using the following format:
+
+```text
+techpixelv##.base44.app
+```
+
+Examples:
+
+```text
+techpixelv10.base44.app → Version 1.0
+techpixelv11.base44.app → Version 1.1
+techpixelv12.base44.app → Version 1.2
+```
+
+---
+
+# 🚀 What Can TechPixel Do?
+
+TechPixel supports nearly every stage of the Bloxd development workflow.
+
+## 💻 WorldCode Development
+
+- Generate scripts from natural language prompts.
+- Debug existing Bloxd code.
+- Explain unfamiliar logic.
+- Optimize implementations.
+- Refactor scripts for readability.
+- Answer WorldCode API questions.
+- Work directly from starter templates.
+
+---
+
+## 🔍 Research & Planning
+
+Use specialized execution pathways to think through difficult problems.
+
+### Research Mode (v0.2.0)
+
+- Investigate complex topics.
+- Gather structured findings.
+- Explore implementation approaches.
+- Analyze systems in depth.
+
+### Plan Mode (v0.2.0)
+
+- Break large projects into phases.
+- Generate development roadmaps.
+- Organize implementation tasks.
+- Turn ideas into actionable plans.
+
+---
+
+## 🖼 PixelGen Image Generation
+
+Generate Bloxd-inspired visuals directly within TechPixel.
+
+Create:
+
+- Logos
+- Server artwork
+- Concept pieces
+- Promotional graphics
+- Environment ideas
+- Creative references
+
+---
+
+## 🧠 Dynamic Memory
+
+Teach TechPixel what matters to you.
+
+Examples include:
+
+- Preferred explanation styles
+- Personal workflows
+- Ongoing projects
+- Reusable context
+
+You're always in control of what gets remembered.
+
+---
+
+## 📚 Training & Knowledge Expansion
+
+Help improve TechPixel itself.
+
+Features include:
+
+- Training submissions
+- Knowledge additions
+- Documentation contributions
+- Built-in relevance validation
+
+---
+
+## ⚙ Productivity Features
+
+Designed to streamline development.
+
+Features include:
+
+- AI-generated chat titles
+- Guest sessions
+- PDF exports
+- Keyword search
+- Chat sharing
+- Notifications
+- Image generation history
+- Live activity tracking
+
+---
+
+# ⭐ Feature Overview
+
+## Core AI
+
+- ✅ WorldCode Assistance
+- ✅ Script Debugging
+- ✅ Code Explanation
+- ✅ API Guidance
+- ✅ Web Search Integration
+- ✅ Extended Thinking
+- ✅ Adjustable Effort Levels
+- ✅ Research Mode v0.2.0
+- ✅ Plan Mode v0.2.0
+
+---
+
+## Creative Tools
+
+- ✅ PixelGen
+- ✅ Visual Concept Generation
+- ✅ Generation History
+
+---
+
+## Memory & Personalization
+
+- ✅ Dynamic Memory
+- ✅ Memory Controls
+- ✅ Theme Support
+- ✅ Profile Customization
+
+---
+
+## Collaboration & Workflow
+
+- ✅ Guest Sessions
+- ✅ Chat Sharing
+- ✅ AI-Named Chats
+- ✅ PDF Export
+- ✅ Keyword Search
+- ✅ Notifications
+
+---
+
+## Platform Experience
+
+- ✅ Terminal-Inspired Interface
+- ✅ Interactive Startup Sequence
+- ✅ Live Configuration Manifest
+- ✅ Community Sync Feed
+- ✅ Multiple Layout Variations
+- ✅ Session-Based Optimizations
+
+---
+
+# 📸 Screenshots
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/37c4b86f-3a31-421b-bc8b-22bb8d8e9950" width="850"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/a914c7f9-a3f5-46ed-9c7c-4b5771cfa9d4" width="850"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/f23f81b5-a8f2-4ec3-b4bb-ab5407dc204d" width="850"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/87e28a44-b396-40d4-93bb-6e27341eac8a" width="850"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/93a8a874-5612-4f80-806a-f4a07fc66f83" width="850"/>
+
+</div>
+
+---
+
+# 📖 Documentation
+
+Additional documentation can be found below:
+
+- 🚀 **Getting Started:** `GETTING_STARTED.md`
+- 🏗 **Architecture:** `ARCHITECTURE.md`
+- 🔒 **Privacy & Memory:** `PRIVACY.md`
+
+---
+
+<div align="center">
+
+## Built for the Bloxd Community ❤️
+
+**Design. Research. Code. Create.**
+
+### TechPixel Agent v1.2
+
+</div>
