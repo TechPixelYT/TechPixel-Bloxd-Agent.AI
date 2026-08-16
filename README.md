@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Astrax (v1.5)
+# ⚡ Astrax (v1.9)
 
 ### *The AI-Powered Bloxd.io Development Assistant*
 
@@ -10,14 +10,14 @@ Design. Research. Build. Create.
 
 **All from your browser.**
 
-[🌐 Launch Astrax](https://astrax.ai.studio) •
+[🌐 Launch Astrax](https://bit.ly/astrax) •
 [🚀 Getting Started](About/GETTING_STARTED.md) •
 [🏗 Architecture](About/ARCHITECTURE.md) •
 [🔒 Privacy](About/PRIVACY.md)
 
 ---
 
-![Version](https://img.shields.io/badge/version-v1.5-purple)
+![Version](https://img.shields.io/badge/version-v1.9-purple)
 ![Platform](https://img.shields.io/badge/platform-Astrax-blue)
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Bloxd](https://img.shields.io/badge/Bloxd.io-Specialized-orange)
@@ -29,24 +29,29 @@ Design. Research. Build. Create.
 
 # ✨ What is Astrax?
 
-Astrax is the next evolution of TechPixel Agent, now operating as a faster, more modern Bloxd.io-focused AI experience built in Google AI Studio.
+Astrax is a Bloxd.io-focused AI assistant built to help players and builders research, create, and iterate faster.
 
-It combines WorldCode assistance, deeper research, creative generation, and project continuity into a single streamlined workspace. Whether you're debugging scripts, planning a new system, researching mechanics, or resuming an older project, Astrax is designed to help creators work faster and think more clearly.
+It brings together WorldCode support, deeper research, creative generation, and project continuity in one streamlined workspace. Whether you're debugging scripts, planning a new system, researching mechanics, or resuming an older project, Astrax is designed to help creators work faster and think more clearly.
 
-> **Think of Astrax as your Bloxd-focused AI copilot, now with stronger research, voice input, and continuity across projects.**
+> **Think of Astrax as your Bloxd-focused AI copilot for building, debugging, and understanding the game.**
 
-## ✨ What’s New in v1.5
+## ✨ What’s New in v1.9
 
-Version 1.5 is a major release and introduces Orbit, Astrax's new dedicated coding mode for Bloxd WorldCode, plus a smarter multi-model AI system and a rebuilt Bloxd knowledge base.
+Version 1.9 is the final release in the rapid-fire v1.6–v1.9 cycle. This update brings a redesigned expressive interface alongside major upgrades to memory, accuracy, and speed.
 
-- Orbit delivers a full coding workspace for Bloxd WorldCode with a split editor + chat layout
-- Built-in Bloxd linter with inline, hoverable error detection and a "Fix with Orbit" option
-- Uses the real Bloxd API so generated code matches actual functions and callbacks
-- Rebuilt Astrax knowledge base with over 1,500 lines of verified Bloxd content covering weapons, blocks, mobs, biomes, crafting, and API usage
-- Smarter model routing that picks the right model for the task: fast for general questions, stronger for coding, and the best coding model in Orbit
-- Dev Tester program for trusted users to report issues, flag bad responses, and help improve Astrax directly
-- PixelGen remains available in v1.5, while Astrax’s own built-in image generator is now targeted for v2.0
-- The next updates (v1.6 through v1.9) will be rapid-fire polish releases with focused refinements
+- Completely redesigned Neural Expressive UI centered on a living neural orb that reacts and animates as Astrax thinks and responds
+- Sleeker, more modern look with Bloxd-inspired theming
+- Complete rebuild of Astrax's memory into a smart extract, store, and retrieve pipeline
+- Memory retrieval runs fully offline with zero latency, and old facts automatically update when they change
+- Crafting questions now display as clean, structured recipe cards
+- New feedback system that logs real feedback for continuous improvement
+- PixelGen remains available in v1.9, while Astrax’s own built-in image generator is now targeted for v2.0
+- Knowledge-retrieval system now more thorough, pulling everything relevant and feeding it to the AI uncondensed for richer, more accurate answers
+- Locked Astrax to Bloxd.io knowledge only — no more Minecraft mix-ups
+- Natural conversational responses instead of choppy stat-sheets
+- Fixed message-ordering issue where Astrax could reply to the previous message instead of the current one
+- Fixed truncated and cut-off responses
+- Overhauled the AI provider system for better reliability and a cleaner fallback chain
 - ⚠️ Orbit and several systems remain in active development (Beta). Performance, reliability, and feature availability may continue to evolve.
 
 For the full release summary, see [SUMMARY_updates.txt](SUMMARY_updates.txt).
@@ -59,7 +64,7 @@ For the full release summary, see [SUMMARY_updates.txt](SUMMARY_updates.txt).
 
 Access the latest Astrax experience at:
 
-> **https://astrax.ai.studio**
+> **https://bit.ly/astrax**
 
 Only the current Astrax experience is supported.
 
@@ -85,7 +90,7 @@ Astrax supports nearly every stage of the Bloxd development workflow.
 
 Astrax takes research further than earlier versions with a more advanced investigation workflow.
 
-### Deep Research (v1.5)
+### Deep Research (v1.9)
 
 - Investigate complex topics with structured multi-step planning.
 - Gather findings using live web search and official Bloxd Fandom Wiki integration.
@@ -116,7 +121,7 @@ Astrax makes everyday work faster and more natural.
 
 Generate Bloxd-inspired visuals directly within Astrax.
 
-PixelGen remains available in v1.5, while Astrax’s own built-in image generator is now targeted for v2.0.
+PixelGen remains available in v1.9, while Astrax’s own built-in image generator is now targeted for v2.0.
 
 Create:
 
@@ -269,6 +274,6 @@ Additional documentation can be found below:
 
 **Design. Research. Code. Create.**
 
-### Astrax AI v1.5
+### Astrax AI v1.9
 
 </div>

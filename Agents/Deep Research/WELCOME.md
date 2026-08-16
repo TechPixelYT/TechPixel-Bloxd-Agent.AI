@@ -1,7 +1,7 @@
 # 🔎 Astrax Deep Research Engine
 > **A multi-turn, autonomous intelligence framework for solving complex Bloxd.io research questions with structured reasoning and verified findings.**
 
-The Astrax Deep Research Engine is built to handle questions that require more than a single-pass answer. Instead of producing an immediate response, it orchestrates a dynamic multi-agent research loop that plans, investigates, verifies, and synthesizes information into a high-quality final report. In v1.5, the experience is more reliable, more polished, and better equipped to recover from provider limits or transient failures.
+The Astrax Deep Research Engine is built to handle questions that require more than a single-pass answer. Instead of producing an immediate response, it orchestrates a dynamic multi-agent research loop that plans, investigates, verifies, and synthesizes information into a high-quality final report. In v1.9, the experience is more reliable, more polished, and better equipped to recover from provider limits or transient failures.
 
 ***
 

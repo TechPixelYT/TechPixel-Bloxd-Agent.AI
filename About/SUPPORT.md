@@ -11,7 +11,7 @@ Thank you for using Astrax! If you are running into issues with code generation,
 
 Before reaching out, your question might already be answered in one of our core guide files:
 * 🚀 **[GETTING_STARTED.md](GETTING_STARTED.md):** Learn how to use Astrax, including Deep Research, voice dictation, memory, and project continuity.
-* 📋 **[README.md](../README.md):** Read the complete system manual, capability boundaries, and release information for version 1.5.
+* 📋 **[README.md](../README.md):** Read the complete system manual, capability boundaries, and release information for version 1.9.
 * 🤝 **[CONTRIBUTIONS.md](CONTRIBUTIONS.md):** See how to submit your own scripts or documentation to the knowledge base.
 
 _______________________________________________________________________________________________
@@ -28,10 +28,10 @@ ________________________________________________________________________________
 
 ## 🤖 3. Ask Astrax About Itself
 
-The absolute best way to learn about the app's features or check on known issues is to ask Astrax itself. Because the system reads this repository's documentation, it can explain the latest v1.5 features and current development status.
+The absolute best way to learn about the app's features or check on known issues is to ask Astrax itself. Because the system reads this repository's documentation, it can explain the latest v1.9 features and current development status.
 
 ### What you can ask Astrax:
-* ❓ *"What changed in the v1.5 update?"*
+* ❓ *"What changed in the v1.9 update?"*
 * ❓ *"How does the new Deep Research system work?"*
 * ❓ *"How does Project Continuity remember my work?"*
 * ❓ *"Is PixelGen still available in this release?"*
@@ -43,6 +43,6 @@ The absolute best way to learn about the app's features or check on known issues
 
 ---
 
-## ⚠️ Known Notes for v1.5
+## ⚠️ Known Notes for v1.9
 
 Astrax is still improving, and some newer systems may remain in active development. Live API providers may occasionally cause instability, but feedback helps improve stability and reliability over time.

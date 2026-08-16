@@ -1,3 +1,52 @@
+
+
+Release Notes (v1.9)
+Date: August 15, 2026
+Version 1.9 is the final release in the rapid-fire v1.6–v1.9 cycle, closing out the road to v2.0. This update brings a redesigned expressive interface alongside major upgrades to memory, accuracy, and speed — making Astrax not only smarter and faster, but better looking and more alive than ever.
+
+Neural Expressive UI
+- A completely redesigned, more expressive interface centered on a living neural orb that reacts and animates as Astrax thinks and responds.
+- A sleeker, more modern look with a cleaner layout and Bloxd-inspired theming for a smoother, more premium feel.
+- Subtle, fluid animations make every conversation feel more alive and responsive.
+
+Turbo Memory System
+- Complete rebuild of Astrax's memory into a smart extract, store, and retrieve pipeline. Astrax now remembers durable facts about you — your playstyle, goals, favorite gamemodes, and more — and brings them up naturally when relevant.
+- Memory retrieval runs fully offline, adding zero latency, and old facts automatically update when they change.
+- New "What do you remember about me?" panel lets you view, delete, and clear everything Astrax remembers, giving you full transparency and control.
+
+Recipe Cards
+- Crafting questions now display as clean, structured recipe cards — item, materials, quantities, crafting station, and tips — instead of plain text, making them far easier to read at a glance.
+
+Feedback System
+- Thumbs up and thumbs down now log real feedback, capturing the question, answer, model used, and timestamp so bad responses can be caught and Astrax keeps improving over time.
+
+Faster & Smarter Responses
+- Replaced the API-based keyword search with instant offline keyword generation — noticeably faster responses with no wasted API calls.
+- The knowledge-retrieval system is now more thorough, pulling everything relevant to your question and feeding it to the AI uncondensed for richer, more accurate answers.
+
+Bloxd-Only Accuracy
+- Locked Astrax to Bloxd.io knowledge only — no more Minecraft mix-ups. If Astrax doesn't know something, it now says so instead of guessing.
+- Corrected crafting recipes and item stats across the knowledge base.
+
+Natural Conversations
+- Astrax now responds in a natural, conversational style instead of choppy stat-sheets, so it feels like talking to a real Bloxd expert.
+
+Stability & Bug Fixes
+- Fixed a message-ordering issue where Astrax could reply to the previous message instead of the current one.
+- Fixed truncated and cut-off responses.
+- Fixed overly strict response filtering that rejected valid short answers.
+- Astrax no longer leaks internal info or dodges questions with capability menus.
+- Overhauled the AI provider system for better reliability and a cleaner fallback chain.
+- Rewired the app's logging to be detailed, concise, and organized.
+
+What's Next — v2.0
+The big one. v2.0 will introduce Astrax's own built-in image generator, finally replacing PixelGen, alongside more major features. Stay tuned.
+
+⚠️ Warning: Orbit and several systems remain in active development (Beta). Performance, reliability, and feature availability may continue to evolve.
+If you encounter any bugs, formatting issues, or unexpected behavior, please report them on Reddit: Contact Own_Body_9771 on Reddit.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Release Notes (v1.5)
 Date: July 28, 2026
 Version 1.5 is a major release — the biggest yet. It introduces Orbit, a dedicated coding mode for Bloxd World Code, alongside a complete rebuild of Astrax's Bloxd knowledge and a smarter multi-model AI system. This is a foundational leap in what Astrax can build and how accurately it answers.

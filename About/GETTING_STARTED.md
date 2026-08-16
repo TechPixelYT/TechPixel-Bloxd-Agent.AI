@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Getting Started with Astrax (v1.5)
+# 🚀 Getting Started with Astrax (v1.9)
 
 ### *From Idea → Implementation → Deployment*
 
@@ -128,7 +128,7 @@ Just describe your goal.
 
 # 🔍 Step 4: Use Deep Research
 
-Deep Research is one of Astrax's biggest v1.5 upgrades.
+Deep Research is one of Astrax's biggest v1.9 upgrades.
 
 It is ideal when you need a structured, verified investigation rather than a simple answer.
 
@@ -376,7 +376,7 @@ Whether you're creating your first Bloxd script or planning your next major proj
 
 ## ⚡ Happy Building!
 
-**Astrax (v1.5)**
+**Astrax (v1.9)**
 
 *Built for the Bloxd Community.*
 

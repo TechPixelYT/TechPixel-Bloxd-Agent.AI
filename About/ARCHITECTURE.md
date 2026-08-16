@@ -2,7 +2,7 @@
 
 # 🏗 Architecture Overview
 
-### *How Astrax (v1.5) Works*
+### *How Astrax (v1.9) Works*
 
 Understanding the systems that power Astrax.
 
@@ -10,7 +10,7 @@ From a single prompt to a fully generated response, Astrax combines multiple lay
 
 ---
 
-**This document provides a high-level overview of the major systems and execution pathways used throughout Astrax v1.5.**
+**This document provides a high-level overview of the major systems and execution pathways used throughout Astrax v1.9.**
 
 </div>
 
@@ -164,7 +164,7 @@ Best for:
 
 ---
 
-# 🔍 Deep Research (v1.5)
+# 🔍 Deep Research (v1.9)
 
 Astrax’s Deep Research experience is a major upgrade over the earlier research systems in v1.1 and v1.2.
 
@@ -472,7 +472,7 @@ Astrax's architecture is designed to achieve the following objectives:
 
 <div align="center">
 
-## ⚡ Astrax v1.5
+## ⚡ Astrax v1.9
 
 **Built for the Bloxd Community.**
 

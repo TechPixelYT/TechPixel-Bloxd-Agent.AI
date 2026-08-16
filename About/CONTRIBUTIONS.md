@@ -1,13 +1,13 @@
 # 🤝 TechPixel Agent / Astrax — Project Credits & Contributions
 
-> **Repository:** [TechPixel-Bloxd-Agent.AI](https://github.com/DracoX127/TechPixel-Bloxd-Agent.AI)  
-> **Purpose:** Acknowledging the core developers and sharing how community members can help grow the Astrax ecosystem in version 1.5.
+> **Repository:** [TechPixel-Bloxd-Agent.AI](https://github.com/DracoX127/Astrax.AI)  
+> **Purpose:** Acknowledging the core developers and sharing how community members can help grow the Astrax ecosystem in version 1.9.
 
 ---
 
 ## 👑 Core Creator
 
-* **TechPixelYT (Creator & Lead Developer):** Responsible for the main architecture, interface direction, system prompt engineering, feature integration, and overall management of the Astrax experience in its current v1.5 release.
+* **TechPixelYT (Creator & Lead Developer):** Responsible for the main architecture, interface direction, system prompt engineering, feature integration, and overall management of the Astrax experience in its current v1.9 release.
   * 🌐 **Reddit Profile:** [u/Own_Body_9771](https://www.reddit.com/user/Own_Body_9771/)
 
 _______________________________________________________________________________________________
