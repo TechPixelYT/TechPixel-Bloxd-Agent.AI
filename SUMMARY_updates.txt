@@ -1,5 +1,5 @@
 Release Notes (v1.5)
-Date: [FILL IN RELEASE DATE]
+Date: August 3, 2026
 Version 1.5 is a major release — the biggest yet. It introduces Orbit, a dedicated coding mode for Bloxd World Code, alongside a complete rebuild of Astrax's Bloxd knowledge and a smarter multi-model AI system. This is a foundational leap in what Astrax can build and how accurately it answers.
 
 Orbit — Dedicated Coding Mode
